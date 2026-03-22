@@ -1,5 +1,7 @@
 # Workshop UI Package
 
+# Added Modified MCP servers
+
 This package contains the pre-built UI components for the "Everyday Productivity Accelerators" workshop.
 
 ## Quick Start
