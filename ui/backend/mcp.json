@@ -26,19 +26,19 @@
       "args": [
         "mcp_servers/custom/my_custom_server.py"
       ],
-      "enabled": false
+      "enabled": true
     },
     "my_strands_agent": {
       "command": "python3",
       "args": [
         "mcp_servers/strands/strands_agent.py"
       ],
-      "enabled": false
+      "enabled": true
     },
     "text_utils_remote": {
       "type": "http",
-      "url": "",
-      "enabled": false,
+      "url": "https://bedrock-agentcore.us-west-2.amazonaws.com/runtimes/arn%3Aaws%3Abedrock-agentcore%3Aus-west-2%3A759374918395%3Aruntime%2Ftext_utils_mcp-tX5Wbr9PMn/invocations?qualifier=DEFAULT",
+      "enabled": true,
       "description": "Text Utilities on AgentCore Runtime"
     }
   }
